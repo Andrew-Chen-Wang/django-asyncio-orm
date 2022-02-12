@@ -1,0 +1,7 @@
+[run]
+branch = True
+source =
+    async_orm
+
+[report]
+show_missing = True
